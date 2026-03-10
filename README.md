@@ -35,7 +35,7 @@ static void Fun(int a, int *b)
 
 Codigo intermediario gerado:
 
-```x86asm
+``` assembly
         ENTER       [main], 16
         ADD         t0, 2, 3
         MUL         t1, t0, 4
