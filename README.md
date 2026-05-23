@@ -1,6 +1,6 @@
 # Compilador de C
 
-Esse é um projeto pessoal, ainda em desenvolvimento, que visa implementar um compilador de C 32 bits funcional na linguagem C.
+Esse é um projeto pessoal, ainda em desenvolvimento, que visa implementar um compilador de C 32 bits(C90 com algumas funcionalidades de C99), funcional na linguagem C.
 
 # Demonstração
 Atualmente, ao executar o compilador com um arquivo .c, ele printa na tela o codigo intermediario em formato TAC(Three Address Code)
